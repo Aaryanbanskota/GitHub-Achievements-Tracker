@@ -66,7 +66,6 @@ Welcome to the **J.A.R.V.I.S.-style GitHub Achievements Tracker**, a futuristic,
 
 ```text
 index.html        # Main app logic and UI
-/assets           # (Optional) place your images or animations
 ```
 
 ## 📜 License
