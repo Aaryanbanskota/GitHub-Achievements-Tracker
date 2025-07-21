@@ -16,7 +16,7 @@ Welcome to the **J.A.R.V.I.S.-style GitHub Achievements Tracker**, a futuristic,
 
 ## 🚀 Live Demo
 
-[👉 View Live on GitHub Pages](https://yourusername.github.io/your-repo-name/)
+[👉 View Live on GitHub Pages](https://aaryanbanskota.github.io/GitHub-Achievements-Tracker/)
 
 ## 🛠️ Getting Started
 
